@@ -1,0 +1,36 @@
+[
+    {
+        "pageComponentId":"session-title2",
+        "valid": true,
+        "createTime": 123456,
+        "updateTime": 123333,
+        "name": "标题文本",
+        "description": " 标题文本",
+        "key": "session-title",
+        "icon": "fa-header",
+        "config": ""
+    },
+    {
+        "pageComponentId":"magic-cube",
+        "valid": true,
+        "createTime": 123456,
+        "updateTime": 123333,
+        "name": "魔方",
+        "description": " 魔方",
+        "key": "VantbussinessMagicCube",
+        "icon": "fa-header",
+        "config": ""
+    },
+    {
+        "pageComponentId":"session-title",
+        "valid": true,
+        "createTime": 123456,
+        "updateTime": 123333,
+        "name": "标题文本",
+        "description": " 标题文本",
+        "key": "VantbussinessSessionTitle",
+        "icon": "fa-header",
+        "config": ""
+    }
+]
+
